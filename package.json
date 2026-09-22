@@ -1,0 +1,17 @@
+{
+  "name": "aura-cafe",
+  "version": "1.0.0",
+  "description": "Aura Cafe - Artisanal Coffee & Pastries Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "cafe",
+    "website",
+    "static"
+  ],
+  "author": "",
+  "license": "ISC"
+}
